@@ -6,7 +6,7 @@ public class Main {
         BlackJack blackJack = new BlackJack();
 
         Player vasya = new Player("Василий");
-        Player petya = new Player("Пётр");
+        Player petya = new Player("Petr");
         Player kolya = new Player("Николай");
 
         blackJack.addPlayerToGame(vasya);
